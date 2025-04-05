@@ -1,5 +1,10 @@
+ipykernel
 pandas
 numpy
 seaborn
+scikit-learn
+xgboost
+catboost
+dill
 
--e .
+#-e .
